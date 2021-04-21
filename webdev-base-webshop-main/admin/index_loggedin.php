@@ -17,7 +17,7 @@ header("location:index.php");
 <ul>
     <li><a href="users/">Gebruikers</a></li>
     <li><a href="orders/">Bestellingen</a></li>
-    <li><a href="producten">Producten</a></li>
+    <li><a href="products/">Producten</a></li>
 </ul>
 <?php
     include('core/footer.php');
